@@ -48,3 +48,5 @@ Hệ thống chia làm 3 trường hợp tính toán chính:
 
 ---
 *Logic này đảm bảo mô phỏng chính xác hành vi lấy hàng thực tế của con người trong kho nhiều lối đi (Multi-aisle Warehouse).*
+**Future Improvements" (Cải tiến trong tương lai)**
+Tùy chỉnh số lượng dãy, số lượng cụm, số lượng kệ mỗi dãy
